@@ -19,3 +19,11 @@
 .text-accent {
   color: #7477ff;
 }
+
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+
+.projects img{
+  width: 100%;
+}
