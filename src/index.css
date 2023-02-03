@@ -12,10 +12,19 @@
   background: #1e293b;
 }
 
-.bg-accend {
+.bg-accent {
   background: #7477ff;
 }
 
 .text-accent {
   color: #7477ff;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  line-height: 1.2 !important;
+}
+
+.projects img{
+  width: 100%;
 }
